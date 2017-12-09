@@ -1,0 +1,94 @@
+ {
+  "casefold" : true,
+  "fields" : "text",
+  "verbose" : true,
+  "index" : "",
+  "requested" : 1000,
+  "operatorWrap" : "BM25",
+  
+  "queries"  : [
+    {
+      "number" : "1",
+      "text"   : "Is it harmful to play video games? Does playing make people violent? Does it damage attention spans? Does it increase obesity? Are people who play video games less fit? Should video games be banned?"
+    },
+    {
+      "number" : "2",
+      "text"   : "Do cycle lanes increase or decrease congestion and pollution?"
+    },
+    {
+      "number" : "3",
+      "text"   : "What are good study habits? How common are they? Is it better to study a little every day, or focus for a concentrated period of time?"
+    },
+    {
+      "number" : "4",
+      "text"   : "How can we save energy in our daily lives?"
+    },
+    {
+      "number" : "5",
+      "text"   : "Why are we so ignorant about the world?",
+    },
+    {
+      "number" : "6",
+      "text"   : "How can music affect our body/mind? Does music changes our emotions or attitude?"
+    },
+    {
+      "number" : "7",
+      "text"   : "Why do we procrastinate? How can we avoid procrastinating on important task"
+    },
+    {
+      "number" : "8",
+      "text"   : "What are the evidence that points to climate change? is it a hoax? what can we do to slow it down?"
+    },
+    {
+      "number" : "9",
+      "text"   : "What are the pros and cons of implementing basic income scheme in a country? What are some of the preliminary results for countries/states that have implemented such scheme"
+    },
+    {
+      "number" : "10",
+      "text"   : "Does Artificial Intillegence smarter than human? Can AI replace the brain of human beign? To what extent the feild of AI can affect the people?"
+    },
+    {
+      "number" : "11",
+      "text"   : "The meaning of doodles and how Psychologists can use it?"
+    },
+    {
+      "number" : "12",
+      "text"   : "What is IoT and the current concerns about IoT"
+    },
+    {
+      "number" : "13",
+      "text"   : "Can women be leader? Do women can do things the men coulden't? What makes women strong?"
+    },
+    {
+      "number" : "14",
+      "text"   : "How does classical music affect us?"
+    },
+    {
+      "number" : "15",
+      "text"   : "iHow does body language affects how others see us and how can it also change how we see ourselves"
+    },
+    {
+      "number" : "16",
+      "text"   : "Why creating an education system that nurtures (rather than undermines) creativity is important"
+    },
+    {
+      "number" : "17",
+      "text"   : "How to avoid making critical mistakes in stressful situations, when your thinking becomes clouded"
+    },
+    {
+      "number" : "18",
+      "text"   : "How to stay motivated when doing different tasks even if you have lost interest"
+    },
+    {
+      "number" : "19",
+      "text"   : "What are the cutest animals and what makes them cute"
+    },
+    {
+      "number" : "20",
+      "text"   : "what are the psychologial or sociological effects of social media on us"
+    },
+    {
+      "number" : "21",
+      "text"   : "what determines if something is art, and if it is good art"
+    }]
+}
